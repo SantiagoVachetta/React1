@@ -1,0 +1,47 @@
+[
+        {
+                "id": 1,
+                "edificio": "duplex",
+                "zona": "zona oeste"
+        },
+        {
+                "id": 2,
+                "edificio": "monoabiente",
+                "zona": "zona este"
+        },
+        {
+                "id": 3,
+                "edificio": "penthouse",
+                "zona": "zona norte"
+        },
+        {
+                "id": 4,
+                "zona": "zona sur",
+                "edificio": "Loft"
+        },
+        {
+                "id": 5,
+                "edificio": "triplex",
+                "zona": "zona centro"
+        },
+        {
+                "id": 6,
+                "edificio": "edificio",
+                "zona": "barrio privado"
+        },
+        {
+                "id": 7,
+                "edificio": "casaquinta",
+                "zona":"zona rural"
+        },
+        {
+                "id": 8,
+                "edificio": "casa de dos ambientes",
+                "zona":"zona industrial"
+        },
+        {
+                "id": 9,
+                "edificio": "casa de tres ambientes",
+                "zona":"suburbio"
+        }
+]
